@@ -1,2 +1,2 @@
-# mc-nms-patches
-Minecraft Server Software NMS changes (patch files)
+# mc-spigot-nms-patches
+Minecraft Spigot Server Software NMS changes (patch files)
